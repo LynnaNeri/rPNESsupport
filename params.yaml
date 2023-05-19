@@ -1,0 +1,17 @@
+batch_size: 100
+comments_cap: null
+debug: false
+laps: 3
+output_dir: ./data/
+reddit_id: -xMnijx6SIh0Eav_kwDwGw
+reddit_username: Linguist66
+subreddit: PNESsupport
+total_comments_counter: 1131
+total_counter: 1340
+total_submissions_counter: 209
+utc_after: null
+utc_before: null
+utc_lower_bound: null
+utc_newer: 1651942142
+utc_older: 1554441300
+utc_upper_bound: null
